@@ -17,12 +17,12 @@ ul{
 li{
     list-style: none;
     align-content: center;
-}li:hover{
+}
+
+li:hover{
     margin-left: -10px;
     margin-right: -10px;
 }
-
-
 
 a{
     text-decoration: none;
